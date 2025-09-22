@@ -1,2 +1,4 @@
 Hello a.txt
 First time adding
+hello from issue1
+added new lines
